@@ -1,0 +1,49 @@
+# === SECRETS — never commit ===
+.env
+token.json
+credentials.json
+linkedin_session.json
+
+# === Personal data ===
+assets/*.pdf
+candidate_profile.json
+send_batch.py
+
+# === Browser session ===
+browser_profile/
+
+# === Generated output ===
+outbox/jobs.db
+outbox/raw_jobs.json
+outbox/shortlist_*.json
+
+# === Logs ===
+logs/
+*.log
+
+# === Python ===
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === LaunchAgent (user-specific paths) ===
+*.plist

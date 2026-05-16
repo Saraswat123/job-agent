@@ -1,0 +1,63 @@
+{
+  "personal": {
+    "name": "Your Full Name",
+    "email": "you@gmail.com",
+    "phone": "+91 9999999999",
+    "location": "Your City, India",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "languages": ["English", "Hindi"]
+  },
+  "summary": "Your 2-3 line professional summary. Mention years of experience, core domain, and key skills.",
+  "education": [
+    {
+      "degree": "B.E. / B.Tech in Your Discipline",
+      "institution": "Your College",
+      "year": 2005
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Engineer / Manager",
+      "company": "Current or Most Recent Company",
+      "start": "2020-01",
+      "end": null,
+      "current": true,
+      "highlights": [
+        "Key achievement 1 — use numbers where possible",
+        "Key achievement 2 — specific technology or project",
+        "Key achievement 3 — scale, impact, or outcome"
+      ]
+    },
+    {
+      "title": "Engineer",
+      "company": "Previous Company",
+      "start": "2015-04",
+      "end": "2019-12",
+      "highlights": [
+        "Key achievement 1",
+        "Key achievement 2"
+      ]
+    }
+  ],
+  "skills": {
+    "core": ["Skill 1", "Skill 2", "Skill 3"],
+    "tools": ["Tool A", "Tool B"],
+    "certifications": ["Certification 1"]
+  },
+  "target_roles": [
+    "Senior Engineer",
+    "Project Manager",
+    "Lead Engineer"
+  ],
+  "target_sectors": [
+    "Power",
+    "Infrastructure",
+    "EPC"
+  ],
+  "target_locations": [
+    "India"
+  ],
+  "salary_expectation_inr_lpa": "15-25",
+  "experience_years": 10,
+  "notice_period_days": 30
+}
